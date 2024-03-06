@@ -3,6 +3,8 @@
 <!--
 **Msanidi-Abdul/Msanidi-Abdul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+My name is Ahmed Abdul, and I'm a web developer based in Kenya. I'm passionate about building web applications and creating engaging user experiences.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
